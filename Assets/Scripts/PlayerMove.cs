@@ -12,6 +12,7 @@ public class PlayerMove : MonoBehaviour
 
     [SerializeField] private Rigidbody2D rb;
 
+    public Transform spawnPoint;
     private bool faceRight = true;
 
     public bool isGraunded;
@@ -31,6 +32,7 @@ public class PlayerMove : MonoBehaviour
     {
         extraJumps = extraJumpsvalue;
         rb = GetComponent<Rigidbody2D>();
+        rb.transform.position = spawnPoint.transform.position;
     }
 
     // Update is called once per frame

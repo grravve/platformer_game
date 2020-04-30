@@ -5,7 +5,12 @@ using UnityEngine;
 public class ParallaxPointMove : MonoBehaviour
 {
     public GameObject cam;
+    public Transform spawnPoint;
 
+    void Start()
+    {
+        gameObject.transform.position = cam.transform.position;
+    }
 
     void FixedUpdate()
     {
