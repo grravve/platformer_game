@@ -3004,6 +3004,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 2575563916023354023}
   maxHealth: 100
+  currentHealth: 0
   timer: {fileID: 2575563916023354027}
 --- !u!4 &2575563916023354025
 Transform:
@@ -3013,7 +3014,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2575563916023354018}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.82, y: 0.08, z: 0}
+  m_LocalPosition: {x: 7.82, y: -0.072, z: 0}
   m_LocalScale: {x: 2.9715633, y: 2.9481032, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3033,7 +3034,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 2575563916023354023}
   player: {fileID: 7249396892843132978}
-  attackRange: 3
+  attackRange: 4
   speed: -4
   distanceToPlayer: 0
   direction: {x: 0, y: 0}

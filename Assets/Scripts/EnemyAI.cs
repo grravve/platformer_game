@@ -65,6 +65,10 @@ public class EnemyAI : MonoBehaviour
         {
             StopFollowPlayer();
         }
+        if(GetComponent<Enemy>().currentHealth <= 0)
+        {
+            StopFollowPlayer();
+        }
     }
 
     private void StopFollowPlayer()
