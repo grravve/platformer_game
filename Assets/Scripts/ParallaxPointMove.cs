@@ -4,16 +4,11 @@ using UnityEngine;
 
 public class ParallaxPointMove : MonoBehaviour
 {
-    public GameObject cam;
-    public Transform spawnPoint;
-
-    void Start()
-    {
-        gameObject.transform.position = cam.transform.position;
-    }
-
+    public Camera cam;
+    public GameObject player;
+   
     void FixedUpdate()
     {
-        gameObject.transform.position = new Vector2(cam.transform.position.x, 0f);       
+            gameObject.transform.position = new Vector2(cam.transform.position.x , 0f);
     }
 }
