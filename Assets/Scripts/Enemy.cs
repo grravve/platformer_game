@@ -36,7 +36,7 @@ public class Enemy : MonoBehaviour
 
         // damage animation
         if(noDamage == false)
-            animator.SetTrigger("Hurt");
+      //      animator.SetTrigger("Hurt");
 
 
         if (currentHealth <= 0)

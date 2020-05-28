@@ -7,8 +7,8 @@ public class CameraMove : MonoBehaviour
 
     public GameObject player;
     public PlayerMove playerMovement;
-    public Transform spawnPoint;
-    private float cameraDistance = 150.0f;
+   
+    private float cameraDistance = 90.0f;
 
 
     void Awake()

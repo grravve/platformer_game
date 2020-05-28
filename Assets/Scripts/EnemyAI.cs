@@ -5,34 +5,42 @@ using UnityEngine;
 public class EnemyAI : MonoBehaviour
 {
     public Animator animator;
-    [SerializeField] public Transform player;
+    public GameObject player;
     public float attackRange = 3.5f;
     public float speed = -4;
-    [SerializeField] private float distanceToPlayer;
+    [SerializeField]private float distanceToPlayer;
     private Rigidbody2D rb;
-    private float fakeX;
     [SerializeField] private Vector2 direction;
     private Vector2 headinToPlayer;
     bool faceRight = false;
+    public float viewDistance = 10f;
 
 
+
+    [SerializeField] private float delay = 0.15f;
+    private float chillTime;
 
 
     // Start is called before the first frame update
     void Start()
     {
+        chillTime = 0f;
         rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        distanceToPlayer = Vector2.Distance(gameObject.transform.position, player.position);// дальность обнаружения для противника
-        if (distanceToPlayer < attackRange) 
+        if(chillTime > 0f)
+        {
+            chillTime -= Time.deltaTime;
+        }
+        distanceToPlayer = Vector2.Distance(gameObject.transform.position, player.transform.position);// дальность обнаружения для противника
+        if (distanceToPlayer <= viewDistance) 
         {
             FollowPlayer();
         }
-        else if (distanceToPlayer > attackRange) 
+        else if (distanceToPlayer > viewDistance) 
         {
             StopFollowPlayer();
         }
@@ -61,13 +69,25 @@ public class EnemyAI : MonoBehaviour
         }
         headinToPlayer = gameObject.transform.position - player.transform.position;
         direction = headinToPlayer / distanceToPlayer;
-        if (distanceToPlayer <= 1.5f)
+        if (distanceToPlayer <= attackRange)
         {
-            StopFollowPlayer();
+            StopFollowPlayer();            
+            if(chillTime <= 0f)
+            {
+                animator.SetBool("killing", true);
+                Attack();
+            }            
         }
-        if(GetComponent<Enemy>().currentHealth <= 0)
+        else
         {
-            StopFollowPlayer();
+            animator.SetBool("killing", false);
+        }
+        
+        if(GetComponent<Enemy>().currentHealth <= 0)
+        { 
+            gameObject.SetActive(false);
+            HealtBar damage = player.GetComponent<HealtBar>();
+            damage.GiveHealth();
         }
     }
 
@@ -85,5 +105,17 @@ public class EnemyAI : MonoBehaviour
         transform.localScale = Scaler;
     }
 
+    private void Attack()
+    {
+        chillTime = delay;
+        HealtBar damage = player.GetComponent<HealtBar>();
+        damage.GiveDamage(1);
+        if(damage.GetHealth() == 0)
+        {
+            StopFollowPlayer();
+            animator.SetBool("killing", false);
+        }
+    }
 
+    
 }

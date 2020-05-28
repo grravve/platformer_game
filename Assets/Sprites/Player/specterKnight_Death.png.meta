@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 181ef2113a9ae5d4bb1254604c726755
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2808160522916852086
+    second: specterKnight_Death_0
+  - first:
+      213: -8493159543692426044
+    second: specterKnight_Death_1
+  - first:
+      213: 2092200922245839406
+    second: specterKnight_Death_2
+  - first:
+      213: -8006925843213777481
+    second: specterKnight_Death_3
+  - first:
+      213: 6048378701343143935
+    second: specterKnight_Death_4
+  - first:
+      213: 8879348514857873768
+    second: specterKnight_Death_5
+  - first:
+      213: 2268294734207102317
+    second: specterKnight_Death_6
+  - first:
+      213: -7159876371266391833
+    second: specterKnight_Death_7
+  - first:
+      213: 4665054272561009172
+    second: specterKnight_Death_8
+  - first:
+      213: -6102511601464316134
+    second: specterKnight_Death_9
+  - first:
+      213: 1543409334123809062
+    second: specterKnight_Death_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: specterKnight_Death_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c0ed0fd8d9d8242934bcc40488d816
+      internalID: -2808160522916852086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: specterKnight_Death_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 79
+        height: 36
+      alignment: 9
+      pivot: {x: 0.41166416, y: 0.44572237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50fc77b730b4ac408f7a4e1616cfd3d
+      internalID: -8493159543692426044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: specterKnight_Death_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2
+        width: 89
+        height: 40
+      alignment: 9
+      pivot: {x: 0.2604665, y: 0.36642942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916a087e99ed9984392150949ab95f5c
+      internalID: 2092200922245839406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: specterKnight_Death_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2
+        width: 104
+        height: 47
+      alignment: 9
+      pivot: {x: 0.18887505, y: 0.3140797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dde045b872f8840a83ae99320c26a6
+      internalID: -8006925843213777481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: specterKnight_Death_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2
+        width: 126
+        height: 52
+      alignment: 9
+      pivot: {x: 0.17187403, y: 0.27634355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa37b880dfeb4e54490a587c2d0c4b18
+      internalID: 6048378701343143935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: specterKnight_Death_5
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2
+        width: 134
+        height: 53
+      alignment: 9
+      pivot: {x: 0.16367762, y: 0.25978044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7987e9778f2c064ba922ec9b034470b
+      internalID: 8879348514857873768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: specterKnight_Death_6
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2
+        width: 136
+        height: 54
+      alignment: 9
+      pivot: {x: 0.15418647, y: 0.26327035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711cf469e93fc6f44a1d25c5aee38c99
+      internalID: 2268294734207102317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: specterKnight_Death_7
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2
+        width: 136
+        height: 58
+      alignment: 9
+      pivot: {x: 0.15752725, y: 0.24421307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270091471acb99341afa245d73d09e9b
+      internalID: -7159876371266391833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: specterKnight_Death_8
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2
+        width: 138
+        height: 59
+      alignment: 9
+      pivot: {x: 0.14932118, y: 0.25147498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b662810b6389e479b4ff0cda4bee2c
+      internalID: 4665054272561009172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: specterKnight_Death_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2
+        width: 132
+        height: 56
+      alignment: 9
+      pivot: {x: 0.1626966, y: 0.25410894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ec3ea5e1ac18d4c8dd81cf34ab3353
+      internalID: -6102511601464316134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: specterKnight_Death_10
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2
+        width: 66
+        height: 21
+      alignment: 9
+      pivot: {x: 0.3301965, y: 0.670379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663bf56247d68a34398a2f72563e483a
+      internalID: 1543409334123809062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

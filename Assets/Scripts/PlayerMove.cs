@@ -6,7 +6,7 @@ public class PlayerMove : MonoBehaviour
 {
     public float speed;
     public float jumpHeight;
-    public Animator animator; 
+    private Animator animator; 
 
     public float moveInput;
 
@@ -29,6 +29,7 @@ public class PlayerMove : MonoBehaviour
     // Start is called before the first frame update
     private void Start()
     {
+        animator = GetComponent<Animator>();
         extraJumps = extraJumpsvalue;
         rb = GetComponent<Rigidbody2D>();
     }
