@@ -33,7 +33,7 @@ Transform:
   m_GameObject: {fileID: 2948731656926654701}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.949193, y: -0.80264795, z: 0}
-  m_LocalScale: {x: 2.121935, y: 2.5540864, z: 1}
+  m_LocalScale: {x: 2.8433578, y: 3.4224339, z: 1.3399836}
   m_Children:
   - {fileID: 2948731657851516935}
   - {fileID: 2948731656946102604}
@@ -117,7 +117,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2948731656926654701}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 6200000, guid: 37a6d6688d5e9e84b817e50af4f5ef1e, type: 2}
   m_IsTrigger: 0
@@ -202,7 +202,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   jumpHeight: 30
-  animator: {fileID: 2948731656926654674}
   moveInput: 0
   rb: {fileID: 2948731656926654702}
   isGraunded: 1
@@ -224,7 +223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b5fa216e403f2441b552f39292e09f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 0
+  health: 8
   numberOfHealth: 8
   hearts:
   - {fileID: 0}
@@ -236,6 +235,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   fullHeart: {fileID: 21300000, guid: 8a70e4b718e3bab4399cedb705387ac0, type: 3}
+  currentDeathTime: 0
 --- !u!1 &2948731656946102605
 GameObject:
   m_ObjectHideFlags: 0
@@ -275,7 +275,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2948731657851516935}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
