@@ -13,7 +13,7 @@ public class HealtBar : MonoBehaviour
     public Image[] hearts;
     public Sprite fullHeart;
 
-    private float deathTime = 1.21f;
+    private float deathTime = 1.11f;
     [SerializeField] private float currentDeathTime;
  
 
