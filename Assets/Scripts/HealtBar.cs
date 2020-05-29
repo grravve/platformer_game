@@ -14,6 +14,10 @@ public class HealtBar : MonoBehaviour
     public Sprite fullHeart;
 
     private float deathTime = 1.11f;
+    
+
+    
+
     [SerializeField] private float currentDeathTime;
  
 
@@ -26,6 +30,7 @@ public class HealtBar : MonoBehaviour
     private void Start()
     {
         currentDeathTime = 0;
+        
     }
 
     void Update()
@@ -52,23 +57,30 @@ public class HealtBar : MonoBehaviour
             currentDeathTime -= Time.deltaTime;
             if(currentDeathTime <= 0f)
             {
-                animator.ResetTrigger("Death");
                 Time.timeScale = 0;
             }
         }
+
+        
+
     }
 
     public void GiveDamage(int damage)
     {
         if (health > 0)
         {
+            animator.SetTrigger("Hurted");
+            StartCoroutine("Hurt");
             health -= damage;
+            
         }
         else if (health == 0 && currentDeathTime == 0f)
         {
             animator.SetTrigger("Death");
             currentDeathTime = deathTime;
         }
+        
+
     }
 
     public void GiveHealth()
@@ -79,5 +91,11 @@ public class HealtBar : MonoBehaviour
     public int GetHealth()
     {
         return health;
+    }
+
+    IEnumerator Hurt()
+    {
+        yield return new WaitForSeconds(0.5f);
+        animator.ResetTrigger("Hurted");
     }
 }
