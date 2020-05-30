@@ -1,0 +1,1502 @@
+fileFormatVersion: 2
+guid: cae95709a7a26474596f4c55f2caa7d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -28031326725283721
+    second: King_Combo_0
+  - first:
+      213: 3674037883672453710
+    second: King_Combo_1
+  - first:
+      213: -7540973618427792745
+    second: King_Combo_2
+  - first:
+      213: 3095749975874978911
+    second: King_Combo_3
+  - first:
+      213: 4997584890093016922
+    second: King_Combo_4
+  - first:
+      213: -4195563648459147057
+    second: King_Combo_5
+  - first:
+      213: -1140154904115258585
+    second: King_Combo_6
+  - first:
+      213: -4866919018804641626
+    second: King_Combo_7
+  - first:
+      213: 1095472513301960307
+    second: King_Combo_8
+  - first:
+      213: 6924631132873162879
+    second: King_Combo_9
+  - first:
+      213: -8393599154248461764
+    second: King_Combo_10
+  - first:
+      213: -4290116330207564831
+    second: King_Combo_11
+  - first:
+      213: 2033780696583823554
+    second: King_Combo_12
+  - first:
+      213: 5236494726056060677
+    second: King_Combo_13
+  - first:
+      213: 3366793700144761086
+    second: King_Combo_14
+  - first:
+      213: -9983993036885704
+    second: King_Combo_15
+  - first:
+      213: 6164652646088052214
+    second: King_Combo_16
+  - first:
+      213: -5177310263143789825
+    second: King_Combo_17
+  - first:
+      213: 4963500348220879805
+    second: King_Combo_18
+  - first:
+      213: -1510638681492322956
+    second: King_Combo_19
+  - first:
+      213: 6869621204971560919
+    second: King_Combo_20
+  - first:
+      213: 8612936156336575986
+    second: King_Combo_21
+  - first:
+      213: 6391496270052530571
+    second: King_Combo_22
+  - first:
+      213: -2151019965299949629
+    second: King_Combo_23
+  - first:
+      213: 4734879404395142191
+    second: King_Combo_24
+  - first:
+      213: 6806525726382422052
+    second: King_Combo_25
+  - first:
+      213: 1256787058577569951
+    second: King_Combo_26
+  - first:
+      213: 8542391438074863733
+    second: King_Combo_27
+  - first:
+      213: -1583558306473524687
+    second: King_Combo_28
+  - first:
+      213: 2907335821485232911
+    second: King_Combo_29
+  - first:
+      213: 5328394270627138097
+    second: King_Combo_30
+  - first:
+      213: -8094382334111227556
+    second: King_Combo_31
+  - first:
+      213: 6575344918486614009
+    second: King_Combo_32
+  - first:
+      213: 480810317922561002
+    second: King_Combo_33
+  - first:
+      213: 722935193305912770
+    second: King_Combo_34
+  - first:
+      213: 5449210864577482419
+    second: King_Combo_35
+  - first:
+      213: -1134107834382403294
+    second: King_Combo_36
+  - first:
+      213: -735271386881505757
+    second: King_Combo_37
+  - first:
+      213: 2040309056022599308
+    second: King_Combo_38
+  - first:
+      213: 1550613051057124184
+    second: King_Combo_39
+  - first:
+      213: -2652958248182648998
+    second: King_Combo_40
+  - first:
+      213: -2052846359955888445
+    second: King_Combo_41
+  - first:
+      213: -5974418920179669738
+    second: King_Combo_42
+  - first:
+      213: 7819014889155879942
+    second: King_Combo_43
+  - first:
+      213: -1170953254489692982
+    second: King_Combo_44
+  - first:
+      213: -9097450511755577520
+    second: King_Combo_45
+  - first:
+      213: 8442383216109774225
+    second: King_Combo_46
+  - first:
+      213: -1047824543125335895
+    second: King_Combo_47
+  - first:
+      213: -6082563167755315402
+    second: King_Combo_48
+  - first:
+      213: 3199977026918005722
+    second: King_Combo_49
+  - first:
+      213: -2410359484355494283
+    second: King_Combo_50
+  - first:
+      213: -4817815313037600479
+    second: King_Combo_51
+  - first:
+      213: -7223039577697565165
+    second: King_Combo_52
+  - first:
+      213: -6849593963973021408
+    second: King_Combo_53
+  - first:
+      213: 3574818261922941545
+    second: King_Combo_54
+  - first:
+      213: 4749196325414530627
+    second: King_Combo_55
+  - first:
+      213: -2383609121578801086
+    second: King_Combo_56
+  - first:
+      213: -69881241460521141
+    second: King_Combo_57
+  - first:
+      213: 3531315451680068538
+    second: King_Combo_58
+  - first:
+      213: -5099261611415844773
+    second: King_Combo_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: King_Combo_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 332
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770e4f728a96c9ff0800000000000000
+      internalID: -28031326725283721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 332
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42ef934dfdccf230800000000000000
+      internalID: 3674037883672453710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 332
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f405a274195790800000000000000
+      internalID: -7540973618427792745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 332
+        width: 16
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54c379733056fa20800000000000000
+      internalID: 3095749975874978911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_4
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 332
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579adcaafcfa5540800000000000000
+      internalID: 4997584890093016922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_5
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 332
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8fc0d371d56c5c0800000000000000
+      internalID: -4195563648459147057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 332
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b5a4fc72b5d20f0800000000000000
+      internalID: -1140154904115258585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_7
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 332
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a08e8d30fa357cb0800000000000000
+      internalID: -4866919018804641626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_8
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 332
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37651906276e33f00800000000000000
+      internalID: 1095472513301960307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_9
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 332
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70048bb35b391060800000000000000
+      internalID: 6924631132873162879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_10
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 332
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3250085a02f38b80800000000000000
+      internalID: -8393599154248461764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_11
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 332
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb20ec7de17674c0800000000000000
+      internalID: -4290116330207564831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_12
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 332
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0ece2a4c0793c10800000000000000
+      internalID: 2033780696583823554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_13
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 332
+        width: 16
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50727ce8534cba840800000000000000
+      internalID: 5236494726056060677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_14
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 332
+        width: 18
+        height: 46
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8c621480149be20800000000000000
+      internalID: 3366793700144761086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_15
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 332
+        width: 18
+        height: 41
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b8997c978cdff0800000000000000
+      internalID: -9983993036885704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_16
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 332
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd00cd7bee3d8550800000000000000
+      internalID: 6164652646088052214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_17
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 332
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa84590fbf7628b0800000000000000
+      internalID: -5177310263143789825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 230
+        width: 50
+        height: 37
+      alignment: 9
+      pivot: {x: 0.771417, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3bb3ad445e1e440800000000000000
+      internalID: 4963500348220879805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 230
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7787428, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4758fa57f12290be0800000000000000
+      internalID: -1510638681492322956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 230
+        width: 55
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4539118, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df12dfc61cc55f50800000000000000
+      internalID: 6869621204971560919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_21
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 230
+        width: 69
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5663019, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f55f870dcb478770800000000000000
+      internalID: 8612936156336575986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_22
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 230
+        width: 69
+        height: 64
+      alignment: 9
+      pivot: {x: 0.51518005, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8917b77ef723b850800000000000000
+      internalID: 6391496270052530571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_23
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 230
+        width: 69
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5492607, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cff587fcba0622e0800000000000000
+      internalID: -2151019965299949629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_24
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 230
+        width: 68
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5548688, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c19495bbba5b140800000000000000
+      internalID: 4734879404395142191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_27
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 230
+        width: 53
+        height: 64
+      alignment: 9
+      pivot: {x: 0.69887555, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5706aced0cbac8670800000000000000
+      internalID: 8542391438074863733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_28
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 230
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.7324721, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132c68d3c12160ae0800000000000000
+      internalID: -1583558306473524687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_29
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 230
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.69422823, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f035562a68ee85820800000000000000
+      internalID: 2907335821485232911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_30
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 230
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7363142, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a05fbab5242f940800000000000000
+      internalID: 5328394270627138097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_31
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 229
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7466206, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c516a1b272afaaf80800000000000000
+      internalID: -8094382334111227556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_32
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 230
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.800137, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff701e9d51504b50800000000000000
+      internalID: 6575344918486614009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_33
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 230
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7880995, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebed1ccf6e2ca600800000000000000
+      internalID: 480810317922561002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_34
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 230
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.76401776, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c590a06ab1680a00800000000000000
+      internalID: 722935193305912770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_35
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 230
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7760552, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be0751096c7f9b40800000000000000
+      internalID: 5449210864577482419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_36
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 230
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7278985, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22936a2fee6d240f0800000000000000
+      internalID: -1134107834382403294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_37
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 230
+        width: 34
+        height: 47
+      alignment: 9
+      pivot: {x: 0.78346163, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3264b6bb19acbc5f0800000000000000
+      internalID: -735271386881505757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 146
+        width: 59
+        height: 48
+      alignment: 9
+      pivot: {x: 0.13559322, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c865d34c642a05c10800000000000000
+      internalID: 2040309056022599308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 146
+        width: 59
+        height: 32
+      alignment: 9
+      pivot: {x: 0.13559322, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853385cba52e48510800000000000000
+      internalID: 1550613051057124184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 146
+        width: 53
+        height: 44
+      alignment: 9
+      pivot: {x: 0.1509434, y: 0.4090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f612d778cce2bd0800000000000000
+      internalID: -2652958248182648998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_41
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 146
+        width: 51
+        height: 60
+      alignment: 9
+      pivot: {x: 0.15686275, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c62060bc13d283e0800000000000000
+      internalID: -2052846359955888445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_42
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 146
+        width: 45
+        height: 61
+      alignment: 9
+      pivot: {x: 0.17777778, y: 0.29508197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615615b55a9961da0800000000000000
+      internalID: -5974418920179669738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_43
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 144
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.18604651, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60460a16d98b28c60800000000000000
+      internalID: 7819014889155879942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_44
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 144
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.31708473, y: 0.4499998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4ed811830ffbfe0800000000000000
+      internalID: -1170953254489692982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_45
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 144
+        width: 43
+        height: 32
+      alignment: 9
+      pivot: {x: 0.28684536, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057fc1db5fc5fb180800000000000000
+      internalID: -9097450511755577520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_46
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 144
+        width: 43
+        height: 33
+      alignment: 9
+      pivot: {x: 0.31708473, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19561fd2ece592570800000000000000
+      internalID: 8442383216109774225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_47
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 144
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.26869154, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0141031216571f0800000000000000
+      internalID: -1047824543125335895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_48
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 144
+        width: 16
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637d1169605669ba0800000000000000
+      internalID: -6082563167755315402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_49
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 144
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.821339, y: 0.45498887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbbbdad62a986c20800000000000000
+      internalID: 3199977026918005722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_50
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 143
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.83494705, y: 0.45498887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e3ff1d1deac8ed0800000000000000
+      internalID: -2410359484355494283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_51
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 143
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.830411, y: 0.4599781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d4f8af7ea32db0800000000000000
+      internalID: -4817815313037600479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_52
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 143
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.781171, y: 0.47494584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316cfbcf5cb92cb90800000000000000
+      internalID: -7223039577697565165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_53
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 143
+        width: 58
+        height: 40
+      alignment: 9
+      pivot: {x: 0.87426335, y: 0.4799347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0217ab9949a51f0a0800000000000000
+      internalID: -6849593963973021408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_54
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 143
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.77386475, y: 0.47494584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a0f7ed44e4c9130800000000000000
+      internalID: 3574818261922941545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_55
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 143
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.77386475, y: 0.47494584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e6ce845e888e140800000000000000
+      internalID: 4749196325414530627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_56
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 30
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7801006, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2482ae00228bbeed0800000000000000
+      internalID: -2383609121578801086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 30
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6811302, y: 0.45498914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b474842916bb70ff0800000000000000
+      internalID: -69881241460521141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_58
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 30
+        width: 20
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6394806, y: 0.45498914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab31d3f81b0c10130800000000000000
+      internalID: 3531315451680068538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Combo_59
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 30
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58c5cad498cb39b0800000000000000
+      internalID: -5099261611415844773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

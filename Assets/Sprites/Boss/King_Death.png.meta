@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: 9d654a6a794e8c449845ce5fc74b316b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5599995369490011489
+    second: King_Death_0
+  - first:
+      213: -7714319563126409180
+    second: King_Death_1
+  - first:
+      213: 3753986844931323513
+    second: King_Death_2
+  - first:
+      213: 2715490827647195549
+    second: King_Death_3
+  - first:
+      213: 4768187041778549091
+    second: King_Death_4
+  - first:
+      213: 3168911339381008299
+    second: King_Death_5
+  - first:
+      213: -6229977639454555279
+    second: King_Death_6
+  - first:
+      213: 3752582308734946263
+    second: King_Death_7
+  - first:
+      213: 6760674433078278396
+    second: King_Death_8
+  - first:
+      213: 2445011217874271584
+    second: King_Death_9
+  - first:
+      213: 1002154610619532867
+    second: King_Death_10
+  - first:
+      213: 5474270276053539982
+    second: King_Death_11
+  - first:
+      213: 7698340660631638733
+    second: King_Death_12
+  - first:
+      213: 1537919177650429801
+    second: King_Death_13
+  - first:
+      213: -5013873643618257186
+    second: King_Death_14
+  - first:
+      213: -2849262939583530176
+    second: King_Death_15
+  - first:
+      213: 3303292910223592822
+    second: King_Death_16
+  - first:
+      213: 6261160654764680698
+    second: King_Death_17
+  - first:
+      213: -1549160582810209403
+    second: King_Death_18
+  - first:
+      213: 8745012059035867699
+    second: King_Death_19
+  - first:
+      213: 5387238077309810125
+    second: King_Death_20
+  - first:
+      213: -2071661983432103149
+    second: King_Death_21
+  - first:
+      213: -4528473784785144651
+    second: King_Death_22
+  - first:
+      213: 6509534939703163279
+    second: King_Death_23
+  - first:
+      213: -4926055049530546373
+    second: King_Death_24
+  - first:
+      213: -4728576391301216677
+    second: King_Death_25
+  - first:
+      213: -5386385862994953558
+    second: King_Death_26
+  - first:
+      213: -8299496214392087758
+    second: King_Death_27
+  - first:
+      213: 211533941713264135
+    second: King_Death_28
+  - first:
+      213: 2775795979828207729
+    second: King_Death_29
+  - first:
+      213: 2877879504928478347
+    second: King_Death_30
+  - first:
+      213: -1105997014095956028
+    second: King_Death_31
+  - first:
+      213: -6890652545498338664
+    second: King_Death_32
+  - first:
+      213: -357511925088151798
+    second: King_Death_33
+  - first:
+      213: -8526190162766481974
+    second: King_Death_34
+  - first:
+      213: -1725705016150612349
+    second: King_Death_35
+  - first:
+      213: 7823982364740877575
+    second: King_Death_36
+  - first:
+      213: -3770863695687325589
+    second: King_Death_37
+  - first:
+      213: -3929542279666066126
+    second: King_Death_38
+  - first:
+      213: 7327182831795407087
+    second: King_Death_39
+  - first:
+      213: 6411364201200455283
+    second: King_Death_40
+  - first:
+      213: 1077232712524148041
+    second: King_Death_41
+  - first:
+      213: -211946427160871223
+    second: King_Death_42
+  - first:
+      213: -696101712339156268
+    second: King_Death_43
+  - first:
+      213: 8415942405619979088
+    second: King_Death_44
+  - first:
+      213: -9111989387397923829
+    second: King_Death_45
+  - first:
+      213: -7679327404496378429
+    second: King_Death_46
+  - first:
+      213: 1425649269568940954
+    second: King_Death_47
+  - first:
+      213: 4196303933978152915
+    second: King_Death_48
+  - first:
+      213: -5952551319525457997
+    second: King_Death_49
+  - first:
+      213: -7146975690811806172
+    second: King_Death_50
+  - first:
+      213: 2173337399313411886
+    second: King_Death_51
+  - first:
+      213: 8610819869040971631
+    second: King_Death_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: King_Death_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 172
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165d8465e1e27bd40800000000000000
+      internalID: 5599995369490011489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 172
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428f004ca3b31f490800000000000000
+      internalID: -7714319563126409180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 172
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976fe9f5527d81430800000000000000
+      internalID: 3753986844931323513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 172
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d991ebc358c5fa520800000000000000
+      internalID: 2715490827647195549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_4
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 172
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361c4dff9d00c2240800000000000000
+      internalID: 4768187041778549091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_15
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 172
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b3076d3726578d0800000000000000
+      internalID: -2849262939583530176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_16
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 172
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d81f67667a7dd20800000000000000
+      internalID: 3303292910223592822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_23
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 182
+        width: 11
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f893006e983865a50800000000000000
+      internalID: 6509534939703163279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_24
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 172
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3766b4280323abb0800000000000000
+      internalID: -4926055049530546373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_25
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 172
+        width: 18
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56413f33d8b06eb0800000000000000
+      internalID: -4728576391301216677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_26
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 172
+        width: 16
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaafffc8896bf35b0800000000000000
+      internalID: -5386385862994953558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_27
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 172
+        width: 13
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bd5766a2442dc80800000000000000
+      internalID: -8299496214392087758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_28
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 172
+        width: 13
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ed1cdcff48fe200800000000000000
+      internalID: 211533941713264135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_29
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 172
+        width: 13
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1702e92acbb958620800000000000000
+      internalID: 2775795979828207729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 183
+        width: 11
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8493ad792840f720800000000000000
+      internalID: 2877879504928478347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 125
+        width: 20
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386ab355e601d08e0800000000000000
+      internalID: -1725705016150612349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 125
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dfc4be18e549c60800000000000000
+      internalID: 7823982364740877575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_37
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 125
+        width: 23
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e32a92733babc0800000000000000
+      internalID: -3770863695687325589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_38
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 125
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d10a2cd167779c0800000000000000
+      internalID: -3929542279666066126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_39
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 125
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe88185e6f16fa560800000000000000
+      internalID: 7327182831795407087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_40
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 125
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e853aa5cdb9f850800000000000000
+      internalID: 6411364201200455283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_41
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 125
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dae62d17913fe00800000000000000
+      internalID: 1077232712524148041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_42
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 125
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceb9a1f8d30f0df0800000000000000
+      internalID: -211946427160871223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_43
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 125
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2cb744e23f656f0800000000000000
+      internalID: -696101712339156268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_44
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 125
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0531021470f6bc470800000000000000
+      internalID: 8415942405619979088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_45
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 125
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c7407fde5bb8180800000000000000
+      internalID: -9111989387397923829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_46
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 125
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c52215996c8d6590800000000000000
+      internalID: -7679327404496378429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_47
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 125
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ba3fe057ce8c310800000000000000
+      internalID: 1425649269568940954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_48
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 125
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df875ae1344c3a30800000000000000
+      internalID: 4196303933978152915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_49
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 125
+        width: 27
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bff664ec1a446da0800000000000000
+      internalID: -5952551319525457997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Death_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 57
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fa52f89de392e10800000000000000
+      internalID: 2173337399313411886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
