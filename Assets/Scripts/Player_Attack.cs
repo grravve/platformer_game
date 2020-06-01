@@ -36,7 +36,7 @@ public class Player_Attack : MonoBehaviour
                  
     } 
 
-     void OnDrawGizmosSelected()
+    void OnDrawGizmosSelected()
     {
         if(attackPoint == null)
         {

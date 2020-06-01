@@ -14,8 +14,8 @@ public class HealtBar : MonoBehaviour
     public Sprite fullHeart;
 
     private float deathTime = 1.11f;
-    
 
+    public bool unTouchble = false;
     
 
     [SerializeField] private float currentDeathTime;
@@ -67,6 +67,11 @@ public class HealtBar : MonoBehaviour
 
     public void GiveDamage(int damage)
     {
+        if(unTouchble)
+        {
+            return;
+        }
+
         if (health > 0)
         {
             animator.SetTrigger("Hurted");
