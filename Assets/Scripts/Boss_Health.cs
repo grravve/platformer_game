@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Boss_Health : MonoBehaviour
 {
@@ -40,5 +41,12 @@ public class Boss_Health : MonoBehaviour
         animator.ResetTrigger("Dead");
         Destroy(gameObject);
         gameObject.SetActive(false);
+        MainMenu();
+        
+    }
+
+    void MainMenu()
+    {
+        SceneManager.LoadScene("MainMenu" , LoadSceneMode.Additive);
     }
 }

@@ -23,6 +23,8 @@ public class BossController : MonoBehaviour
             wallLeft.isTrigger = false;
             wallRight.isTrigger = false;
         }
+
+        
     }
 
 
