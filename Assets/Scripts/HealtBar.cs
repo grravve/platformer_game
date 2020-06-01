@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
 
 public class HealtBar : MonoBehaviour
 {
@@ -82,7 +84,8 @@ public class HealtBar : MonoBehaviour
         else if (health == 0 && currentDeathTime == 0f)
         {
             animator.SetTrigger("Death");
-            currentDeathTime = deathTime;
+            //currentDeathTime = deathTime;
+            MainMenu();
         }
         
 
@@ -103,4 +106,14 @@ public class HealtBar : MonoBehaviour
         yield return new WaitForSeconds(0.5f);
         animator.ResetTrigger("Hurted");
     }
+
+    
+
+
+
+void MainMenu()
+{
+    SceneManager.LoadScene("MainMenu");
+}
+
 }

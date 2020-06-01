@@ -47,6 +47,6 @@ public class Boss_Health : MonoBehaviour
 
     void MainMenu()
     {
-        SceneManager.LoadScene("MainMenu" , LoadSceneMode.Additive);
+        SceneManager.LoadScene("MainMenu");
     }
 }
