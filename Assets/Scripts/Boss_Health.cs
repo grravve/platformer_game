@@ -5,31 +5,40 @@ using UnityEngine;
 public class Boss_Health : MonoBehaviour
 {
     public Animator animator;
-    [SerializeField] private int health = 500;
+    public int health = 500;
+
+    
+
 
     public bool unTouchble = false;
-    public bool dead = false;
-
-    public void GiveGamage(int damage)
+    
+    public void GiveDamage(int damage)
     {
-        if (unTouchble)
+        if (unTouchble == true)
         {
             return;
         }
 
-        if (health <= 0)
+        health -= damage;
+
+        if (health < 1)
         {
-            animator.SetTrigger("Dead");
-            if(dead)
-            {
-                Destroy(gameObject);
-            }
+            unTouchble = true;
+            animator.SetTrigger("Dead");   
         }
-        else if (health > 0)
+        else if (health < 150)
         {
             
-
+            animator.SetBool("Enrage", true);
 
         }
+
+    }
+
+    public void Die()
+    {
+        animator.ResetTrigger("Dead");
+        Destroy(gameObject);
+        gameObject.SetActive(false);
     }
 }

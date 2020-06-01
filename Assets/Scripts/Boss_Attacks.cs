@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices.ComTypes;
 using UnityEngine;
 
 public class Boss_Attacks : MonoBehaviour
@@ -8,8 +9,12 @@ public class Boss_Attacks : MonoBehaviour
     public LayerMask playerLayer;
 
     public Transform waveAttackPoint;
+    public Transform comboAttackPoint;
+
 
     public float attackRange = 1.5f;
+    public float comboRange = 1.7f;
+
 
 
     public void WaveAttack()
@@ -22,13 +27,30 @@ public class Boss_Attacks : MonoBehaviour
         }
     }
 
+    public void ComboAttack()
+    {
+        Collider2D[] hitPlayer = Physics2D.OverlapCircleAll(comboAttackPoint.position, attackRange, playerLayer);
+        //damage them'
+        foreach (Collider2D player in hitPlayer)
+        {
+            player.GetComponent<HealtBar>().GiveDamage(1);
+        }
+    }
+
     void OnDrawGizmosSelected()
     {
-        if (waveAttackPoint == null)
+        if (waveAttackPoint != null)
         {
-            return;
+           Gizmos.DrawWireSphere(waveAttackPoint.position, attackRange);
         }
-        Gizmos.DrawWireSphere(waveAttackPoint.position, attackRange);
+        else { return; }
+        
+        if(comboAttackPoint != null)
+        {
+            Gizmos.DrawWireSphere(comboAttackPoint.position, comboRange);
+
+        }
+        else { return; }
     }
 
 

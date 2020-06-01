@@ -8,6 +8,7 @@ public class Boss_LookControll : MonoBehaviour
 
     public Transform player;
 
+    
 
     public void LookAtPlayer()
     {

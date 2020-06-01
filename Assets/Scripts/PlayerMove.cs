@@ -19,6 +19,8 @@ public class PlayerMove : MonoBehaviour
     public float checkRadius;
     public LayerMask whatIsGround;
 
+    
+
     private int extraJumps;
     public int extraJumpsvalue; 
 
@@ -49,6 +51,9 @@ public class PlayerMove : MonoBehaviour
             Flip();
 
         }
+
+        
+
     }
 
     void Update()
@@ -72,6 +77,8 @@ public class PlayerMove : MonoBehaviour
         {
             rb.velocity = Vector2.up * jumpHeight;
         }
+
+        
     }
 
 
