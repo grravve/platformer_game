@@ -7,13 +7,14 @@ public class BossController : MonoBehaviour
 
     public BoxCollider2D wallLeft;
     public BoxCollider2D wallRight;
-
+    public GameObject healthBar;
     public Transform player;
     public Transform boss;
 
     float fightRange = 8f;
 
     bool bossFight = false;
+
 
     void Update()
     {
@@ -22,6 +23,7 @@ public class BossController : MonoBehaviour
             bossFight = true;
             wallLeft.isTrigger = false;
             wallRight.isTrigger = false;
+            healthBar.SetActive(true);
         }
 
         

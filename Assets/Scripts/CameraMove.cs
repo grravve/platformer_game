@@ -10,7 +10,7 @@ public class CameraMove : MonoBehaviour
     public Transform player;
     public PlayerMove playerMovement;
    
-    private float cameraDistance = 110.0f;
+    private float cameraDistance = 90.0f;//110
     public float smoothTime = .15f;
     Vector3 velocity = Vector3.zero;
 

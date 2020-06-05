@@ -8,11 +8,17 @@ public class Boss_Health : MonoBehaviour
     public Animator animator;
     public int health = 500;
 
-    
+    public BossBar healthBar;
 
 
     public bool unTouchble = false;
-    
+
+    void Start()
+    {
+        healthBar.SetMaxHealth(health);
+
+    }
+
     public void GiveDamage(int damage)
     {
         if (unTouchble == true)
@@ -21,6 +27,7 @@ public class Boss_Health : MonoBehaviour
         }
 
         health -= damage;
+        healthBar.SetHealth(health);
 
         if (health < 1)
         {

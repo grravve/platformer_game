@@ -8,8 +8,8 @@ using UnityEngine.SceneManagement;
 public class HealtBar : MonoBehaviour
 {
 
-    [SerializeField] private int health;
-    public int numberOfHealth;
+    [SerializeField] private int health = 8;
+    public int numberOfHealth = 8;
     private Animator animator;
 
     public Image[] hearts;
